@@ -1,0 +1,5 @@
+!.storybook
+!.jest
+
+next.config.js
+server.js
