@@ -14,12 +14,6 @@ const Base = ({ children }: BaseProps) => {
       <S.Content>
         <PageContainer>{children}</PageContainer>
       </S.Content>
-      {/* <S.Footer>
-        <p>
-          Author: Hege Refsnes
-          <a href="mailto:hege@example.com">hege@example.com</a>
-        </p>
-      </S.Footer> */}
     </S.Wrapper>
   );
 };

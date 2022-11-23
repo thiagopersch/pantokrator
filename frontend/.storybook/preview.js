@@ -5,14 +5,14 @@ import GlobalStyles from 'styles/global';
 
 export const parameters = {
   backgrounds: {
-    default: 'wilt-light',
+    default: 'pantokrator-light',
     values: [
       {
-        name: 'wilt-light',
+        name: 'pantokrator-light',
         value: theme.colors.mainBg
       },
       {
-        name: 'wilt-white',
+        name: 'pantokrator-white',
         value: theme.colors.white
       }
     ]

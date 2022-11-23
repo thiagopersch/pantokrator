@@ -10,13 +10,12 @@ const Navbar = () => {
       <S.Logo>
         <Link href="/home">
           <Image
-            src="/img/logo-transparent.png"
-            width={150}
-            height={60}
+            src="/logo/logo.png"
+            width={70}
+            height={70}
             quality={80}
           />
         </Link>
-        logo aqui
       </S.Logo>
     </S.Wrapper>
   );
